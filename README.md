@@ -18,12 +18,12 @@
 │   │   ├── game.rb
 │   │   └── view.rb
 │   └── rps_game.rb
-├── test
-│   └── rps_game
-│       ├── test_basic_bot.rb
-│       ├── test_game.rb
-│       └── test_view.rb
-└── test_helper.rb
+└── test
+    ├── test_helper.rb
+    └── rps_game
+        ├── test_basic_bot.rb
+        ├── test_game.rb
+        └── test_view.rb
 ```
 
 #### Gemfile & Gemfile.lock
