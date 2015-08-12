@@ -13,4 +13,4 @@ require_relative 'lib/rps_game'
 Minitest::Reporters.use! Minitest::Reporters::SpecReporter.new
 
 # Adds all the test files
-Dir[File.dirname(__FILE__) + '/test/tests/*.rb'].each {|file| require file }
+# Dir[File.dirname(__FILE__) + '/test/**/*.rb'].each {|file| require file }
