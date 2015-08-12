@@ -6,7 +6,7 @@ require 'mocha/mini_test'
 
 require 'minitest/reporters'
 
-require_relative 'lib/rps_game'
+require_relative '../lib/rps_game'
 
 # This is a configuration setting from minitest reporters
 # It changes the console output to be more descriptive

@@ -1,4 +1,4 @@
-require_relative '../../test_helper'
+require_relative '../test_helper'
 
 # These tests test the Game class
 class TestGame < Minitest::Test
