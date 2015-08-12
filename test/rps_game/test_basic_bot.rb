@@ -1,4 +1,4 @@
-require_relative '../../test_helper'
+require_relative '../test_helper'
 
 # These tests test the BasicBot class
 class TestBasicBot < Minitest::Test
