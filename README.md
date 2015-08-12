@@ -113,7 +113,7 @@ This gem improves the output the minitest produces when it runs. There are a few
 See: https://github.com/kern/minitest-reporters
 
 
-## The challange
+## The challenge
 
 Get all the tests to pass so that we have a working Rock Paper Scissors game.
 
